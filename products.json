@@ -1,0 +1,4274 @@
+[
+  {
+    "produto": "Anabela Tamanco Madri Whisky 11cm",
+    "codigo": "Cod.4231",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Anabela Tamanco Madri Preto 11cm",
+    "codigo": "Cod.4232",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Anabela Madri Whisky Com Esferas 11cm",
+    "codigo": "Cod.4221",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Anabela Madri Preto Com Esferas 11cm",
+    "codigo": "Cod.4222",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Anabela Suede Terra 11cm",
+    "codigo": "Cod.4223",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Anabela Suede Preto 11cm",
+    "codigo": "Cod.4224",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Anabela Suede Preto Nó 11cm",
+    "codigo": "Cod.4204",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Anabela Suede Preto Nó 11cm",
+    "codigo": "Cod.4203",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Anabela Napa Dolce Slingback 11cm",
+    "codigo": "Cod.3553",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Anabela Suede Atlântida 11cm",
+    "codigo": "Cod.3349",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Anabela Suede Azaléia 11cm",
+    "codigo": "Cod.2934",
+    "valor": "74,9",
+    "valor_com_acrescimo": "175,92"
+  },
+  {
+    "produto": "Anabela Suede Preto 11cm",
+    "codigo": "Cod.2364",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Anabela Suede Hortência 11cm",
+    "codigo": "Cod.2366",
+    "valor": "69,9",
+    "valor_com_acrescimo": "164,27"
+  },
+  {
+    "produto": "Anabela Suede Salinas 11cm",
+    "codigo": "Cod.2367",
+    "valor": "69,9",
+    "valor_com_acrescimo": "164,27"
+  },
+  {
+    "produto": "Anabela Suede Aveia 11cm",
+    "codigo": "Cod.3878",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Anabela Suede Esmeralda 11cm",
+    "codigo": "Cod.3879",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Anabela Napa Preto Com Spikes Salto 9cm",
+    "codigo": "Cod:3926",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Anabela Napa Off White Com Spikes Salto 9cm",
+    "codigo": "Cod:3927",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Anabela Napa Nude Com Spikes Salto 9cm",
+    "codigo": "Cod:3929",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Anabela Napa Oliva Com Spikes Salto 9cm",
+    "codigo": "Cod:3929",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Anabela Suede Terra Aberta Salto 7cm 2em1",
+    "codigo": "Cod:4211",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Anabela Suede Preto Aberta Salto 7cm 2em1",
+    "codigo": "Cod:4212",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Anabela Suede Navy Salto 7cm",
+    "codigo": "Cod:4191",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Anabela Suede Caramelo Salto 7cm",
+    "codigo": "Cod:4192",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Anabela Suede Marsala Salto 7cm",
+    "codigo": "Cod:4187",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Anabela Suede Preto Salto 7cm",
+    "codigo": "Cod:4186",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Anabela Napa Preto Slingback Salto 7cm",
+    "codigo": "Cod:3660",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Anabela Suede Esmeralda 2EM1 Salto 7cm",
+    "codigo": "Cod:3633",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Flatform Napa Veneza Preto",
+    "codigo": "Cód.4010",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Flatform Napa Veneza Brown",
+    "codigo": "Cód.4011",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Flatform Napa Natural",
+    "codigo": "Cód.3973",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Flatform Napa Off White Com Fivelas",
+    "codigo": "Cód.3849",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Flatform Napa Caramelo Com Fivelas",
+    "codigo": "Cód.3850",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Flatform Napa Preto Com Fivelas",
+    "codigo": "Cód.3851",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Flatform Croco Preto",
+    "codigo": "Cód.3191",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Flatform Croco Metalizado Pewter",
+    "codigo": "Cód.3192",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Flatform Croco Caramelo",
+    "codigo": "Cód.3193",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Flatform Napa Kiwi Strass",
+    "codigo": "Cód.2463",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Flatform Napa Íris Strass",
+    "codigo": "Cód.2464",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Flatform Napa Salinas",
+    "codigo": "Cód.2908",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Flatform Jeans Escuro Meia Esfera",
+    "codigo": "Cód.2871",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Flatform Napa Solar Com Pirâmides",
+    "codigo": "Cód.3254",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Flatform Napa Preto Com Pirâmides",
+    "codigo": "Cód.3255",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Flatform Napa Cherry Com Pirâmides",
+    "codigo": "Cód.3256",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Flatform Napa Cassino Com Pirâmides",
+    "codigo": "Cód.3257",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Flatform Napa Off White Com Pirâmides",
+    "codigo": "Cód.3175",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Flatform Metalizada Ouro Light Com Pirâmides",
+    "codigo": "Cód.3177",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Flatform Napa Pitaya",
+    "codigo": "Cód.2428",
+    "valor": "74,9",
+    "valor_com_acrescimo": "175,92"
+  },
+  {
+    "produto": "Birken Napa Porcelana Com Enfeites Ocean",
+    "codigo": "Cód.: 4217",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Birken Napa Cappuccino Com Enfeites Ocean",
+    "codigo": "Cód.: 4218",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Birken Napa Preto Cruzada Com Meia Esferas",
+    "codigo": "Cód.: 3391",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Birken Napa Carvalho Cruzada Com Meia Esferas",
+    "codigo": "Cód.: 3392",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Birken Metalizada Cobre Com Velcro E Strass",
+    "codigo": "Cód.: 3452",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Birken Metalizada Ouro Light Com Velcro E Strass",
+    "codigo": "Cód.: 3453",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Birken Metalizada Pewter Com Velcro E Strass",
+    "codigo": "Cód.: 3454",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Birken Napa Rosado Meia Esferas Marmorizadas",
+    "codigo": "Cód.: 3424",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Birken Napa Off White Meia Esferas Marmorizadas",
+    "codigo": "Cód.: 3425",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Birken Napa Off White Com Duas Fivelas E Meia Esferas",
+    "codigo": "Cód.: 3388",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Birken Napa Preto Com Duas Fivelas E Meia Esferas",
+    "codigo": "Cód.: 3389",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Birken Napa Palha Com Duas Fivelas E Meia Esferas",
+    "codigo": "Cód.: 3390",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Birken Napa Preto 3 Tiras Strass",
+    "codigo": "Cód.: 3351",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Birken Napa Off White Gáspea Strass",
+    "codigo": "Cód.: 3354",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Birken Metalizada Bronze Com Fivelas E Enfeites",
+    "codigo": "Cód.: 3308",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Birken Napa Preto Com Fivelas E Enfeites",
+    "codigo": "Cód.: 3309",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Birken Metalizada Pewter Com Fivelas E Enfeites",
+    "codigo": "Cód.: 3310",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Birken Metalizada Pewter Com Correntes E Pirâmides",
+    "codigo": "Cód.: 3243",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Birken Napa Rosado Duas Tiras Strass",
+    "codigo": "Cód.: 3617",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Birken Napa Preto Duas Tiras Strass",
+    "codigo": "Cód.: 3239",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Birken Metalizada Pewter Pirâmide E Cordão",
+    "codigo": "Cód.: 3055",
+    "valor": "69,9",
+    "valor_com_acrescimo": "164,27"
+  },
+  {
+    "produto": "Bota Napa Veneza Preto Salto 5cm",
+    "codigo": "Cod.3992",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Bota Suede Caramelo Com Tachas Meia Esferas Salto 7cm",
+    "codigo": "Cod.4042",
+    "valor": "139,9",
+    "valor_com_acrescimo": "328,77"
+  },
+  {
+    "produto": "Bota Jeans Claro Western 7cm",
+    "codigo": "Cod.2923",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Bota Napa Pétala Com Strass 7cm",
+    "codigo": "Cod.2783",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Bota Glossy Rosado 2em1 7cm",
+    "codigo": "Cod.2790",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Bota Pétala Com Pirâmides 7cm",
+    "codigo": "Cod.2798",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Bota Napa Rosado 11cm",
+    "codigo": "Cod.2780",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Bota Glossy Rosado 11cm 2em1",
+    "codigo": "Cod.2786",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Bota Pelo Onça 11cm 2em1",
+    "codigo": "Cod.2787",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Bota Napa Nude Country 11cm",
+    "codigo": "Cod.2792",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Bota Napa Amêndoa/glitter 11cm",
+    "codigo": "Cod.2736",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Sandália meia pata Metalizada Ouro Com Spikes 11cm",
+    "codigo": "Cod:2764",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Sandália meia pata Metalizada Prata Com Spikes 11cm",
+    "codigo": "Cod:2766",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Sandália meia pata Metalizada Pink Com Spikes 11cm",
+    "codigo": "Cod:2767",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Sandália meia pata verniz Rosa Shock 11cm",
+    "codigo": "Cod:2334",
+    "valor": "54,9",
+    "valor_com_acrescimo": "129,02"
+  },
+  {
+    "produto": "Sandália meia pata Napa Nude 11cm",
+    "codigo": "Cod:2396",
+    "valor": "69,9",
+    "valor_com_acrescimo": "164,27"
+  },
+  {
+    "produto": "Mule Napa Preto Com Aplicação Enfeite Salto 2cm",
+    "codigo": "Cod:4145",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Mule Napa Rosado Com Aplicação Enfeite Salto 2cm",
+    "codigo": "Cod:4144",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Mule Napa Preto Com Meia Esferas Salto 2cm",
+    "codigo": "Cod:4059",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Mule Napa Caramelo Com Meia Esferas Salto 2cm",
+    "codigo": "Cod:4058",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Mule Metalizado Ouro Light Com Meia Esferas Salto 2cm",
+    "codigo": "Cod:4055",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Mule Metalizado Bronze Com Meia Esferas Salto 2cm",
+    "codigo": "Cod:4054",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Mule Tecido Onça Com Pirâmides Salto 2cm",
+    "codigo": "Cod:4013",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Mule Suede Caramelo Com Pirâmides Salto 2cm",
+    "codigo": "Cod:4014",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Mule Napa Branco Com Boton Salto 2cm",
+    "codigo": "Cod:3940",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Mule Napa Rosa Com Boton Salto 2cm",
+    "codigo": "Cod:3941",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Mule Napa Preto Com Boton Salto 2cm",
+    "codigo": "Cod:3942",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Mule Napa Rosado Com Tira Strass",
+    "codigo": "Cod:3704",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Mule Napa Aveia Com Tira Strass",
+    "codigo": "Cod:3705",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Mule Napa Preto Com Tira Strass",
+    "codigo": "Cod:3706",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Mule Metalizado Ouro Light Com Strass",
+    "codigo": "Cod:3437",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Mule Napa Preto Com Tiras E Meia Esferas",
+    "codigo": "Cod:3362",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Mule Metalizado Ouro Light Com Tiras E Meia Esferas",
+    "codigo": "Cod:3363",
+    "valor": "54,9",
+    "valor_com_acrescimo": "129,02"
+  },
+  {
+    "produto": "Mule Napa Rosado Com Tiras E Meia Esferas",
+    "codigo": "Cod:3364",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Mule Napa Preto Com Meia Esferas Salto 2cm",
+    "codigo": "Cod:3300",
+    "valor": "69,9",
+    "valor_com_acrescimo": "164,27"
+  },
+  {
+    "produto": "Mule Tratorado Napa Hortência",
+    "codigo": "Cod:2589",
+    "valor": "49,9",
+    "valor_com_acrescimo": "117,27"
+  },
+  {
+    "produto": "Rasteira Verniz Molhado Nude Com Pirâmide",
+    "codigo": "Cod.3974",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Rasteira Verniz Molhado Baunilha Com Pirâmide",
+    "codigo": "Cod.3975",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Rasteira Verniz Molhado Preto Com Pirâmide",
+    "codigo": "Cod.3976",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Rasteira Verniz Molhado Musgo Com Pirâmide",
+    "codigo": "Cod.3977",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Rasteira Metalizado Ouro Com Tiras E Esfera",
+    "codigo": "Cod.3950",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Rasteira Metalizado Pewter Com Tiras E Esfera",
+    "codigo": "Cod.3951",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Rasteira Metalizado Cobre Com Tiras E Esfera",
+    "codigo": "Cod.3952",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Rasteira Napa Veneza Canela Com Estrelas",
+    "codigo": "Cod.3935",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Rasteira Napa Veneza Preto Com Estrelas",
+    "codigo": "Cod.3936",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Rasteira Napa Veneza Brown Com Estrelas",
+    "codigo": "Cod.3937",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Rasteira Napa Preto Com Fivela e ilhóis",
+    "codigo": "Cod.3916",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Rasteira Napa Aveia Com Fivela e ilhóis",
+    "codigo": "Cod.3915",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Rasteira Napa Caramelo Com Fivela e ilhóis",
+    "codigo": "Cod.3914",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Rasteira Napa Off White Com Tira Strass",
+    "codigo": "Cod.3491",
+    "valor": "69,9",
+    "valor_com_acrescimo": "164,27"
+  },
+  {
+    "produto": "Rasteira Napa Candy Com Tira Strass",
+    "codigo": "Cod.3493",
+    "valor": "69,9",
+    "valor_com_acrescimo": "164,27"
+  },
+  {
+    "produto": "Rasteira Napa Off White Com Meia Esferas E Traseiro",
+    "codigo": "Cod.3413",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Rasteira Metalizada Ouro Light Matelassê Com Pirâmides",
+    "codigo": "Cod.3397",
+    "valor": "69,9",
+    "valor_com_acrescimo": "164,27"
+  },
+  {
+    "produto": "Rasteira Napa Preto Matelassê Com Pirâmides",
+    "codigo": "Cod.3399",
+    "valor": "69,9",
+    "valor_com_acrescimo": "164,27"
+  },
+  {
+    "produto": "Rasteira Napa Preto Com Meia Esferas Azuis E Douradas",
+    "codigo": "Cod.3396",
+    "valor": "74,9",
+    "valor_com_acrescimo": "175,92"
+  },
+  {
+    "produto": "Rasteira Metalizada Ouro Com Meia Esferas Azuis E Douradas",
+    "codigo": "Cod.3395",
+    "valor": "74,9",
+    "valor_com_acrescimo": "175,92"
+  },
+  {
+    "produto": "Rasteira Verniz Néctar Com Borboletas",
+    "codigo": "Cod.3361",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Rasteira Metalizada Ouro Light Com Pirâmides E Meia Esferas",
+    "codigo": "Cod.3328",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Rasteira Napa Preto Com Pirâmides E Meia Esferas",
+    "codigo": "Cod.3329",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Rasteira Metalizada Prata Com Pirâmides E Meia Esferas",
+    "codigo": "Cod.3330",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Rasteira Napa Off White Com Nó Strass",
+    "codigo": "Cod.3481",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Rasteira Napa Preto Com Nó Strass",
+    "codigo": "Cod.3482",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Rasteira Napa Preto Com Strass Geométrico Strass",
+    "codigo": "Cod.3356",
+    "valor": "49,9",
+    "valor_com_acrescimo": "117,27"
+  },
+  {
+    "produto": "Rasteira Napa Off White Com Strass Geométrico",
+    "codigo": "Cod.3357",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Rasteira Napa Off White Com Strass Gáspea",
+    "codigo": "Cod.3294",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Rasteira Napa Preto Com Tiras Spikes",
+    "codigo": "Cod.3261",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Rasteira Napa Rosado Com Tiras Spikes",
+    "codigo": "Cod.3896",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Rasteira Metalizado Ouro Light Com Tiras Spikes",
+    "codigo": "Cod.3895",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Rasteira Verniz Preto Tiras De Amarrar Com Strass",
+    "codigo": "Cod.3210",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Rasteira Verniz Salinas Tiras De Amarrar Com Strass",
+    "codigo": "Cod.3211",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Rasteira Electra Azul",
+    "codigo": "Cod.3325",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Rasteira Electra Roxo",
+    "codigo": "Cod.3327",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Rasteira Napa Preto Com Pirâmides",
+    "codigo": "Cod.2858",
+    "valor": "34,9",
+    "valor_com_acrescimo": "82,02"
+  },
+  {
+    "produto": "Rasteira Napa Branco Com Pirâmides",
+    "codigo": "Cod.2859",
+    "valor": "34,9",
+    "valor_com_acrescimo": "82,02"
+  },
+  {
+    "produto": "Rasteira Metalizada Prata Snake Luxor Pewter",
+    "codigo": "Cod.3434",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Sandália Napa Tequila Com Aplicações Marmorizadas Salto 2cm",
+    "codigo": "Cod:4238",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Sandália Napa Whisky Com Aplicações Marmorizadas Salto 2cm",
+    "codigo": "Cod:4237",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Sandália Napa Preto Com Spikes Salto 2cm",
+    "codigo": "Cod:3986",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Sandália Napa Cappuccino Com Spikes Salto 2cm",
+    "codigo": "Cod:3985",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Sandália Napa Preto Com Fivelas Laterais Salto 2cm",
+    "codigo": "Cod:3956",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Sandália Napa Off White Com Fivelas Laterais Salto 2cm",
+    "codigo": "Cod:3957",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Sandália Napa Whisky Com Fivelas Laterais Salto 2cm",
+    "codigo": "Cod:3958",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Sandália Napa Preto Com Laços Salto 2cm",
+    "codigo": "Cod:3947",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Sandália Napa Rosa Com Laços Salto 2cm",
+    "codigo": "Cod:3948",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Sandália Napa Oliva Com Laços Salto 2cm",
+    "codigo": "Cod:3949",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Sandália Metalizada Bronze Com Metal Bold Salto 2cm",
+    "codigo": "Cod:3930",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Sandália Metalizada Prata Com Metal Bold Salto 2cm",
+    "codigo": "Cod:3931",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Sandália Metalizada Preto Com Metal Bold Salto 2cm",
+    "codigo": "Cod:3932",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Sandália Metalizada Prata Com Moedas Ouro Salto 2cm",
+    "codigo": "Cod:3910",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Sandália Metalizada Bronze Com Medalhas Salto 2cm",
+    "codigo": "Cod:3738",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Sandália Napa Porcelana Com Medalhas 4cm",
+    "codigo": "Cod:4215",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Sandália Palha Napa Natural 4cm",
+    "codigo": "Cod:4213",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Sandália Palha Napa Preto 4cm",
+    "codigo": "Cod:4214",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Sandália Verniz Taupe Três Fivelas 4cm",
+    "codigo": "Cod:3484",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Sandália Verniz Off White Três Fivelas 4cm",
+    "codigo": "Cod:3485",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Sandália Verniz Marsala Três Fivelas 4cm",
+    "codigo": "Cod:3487",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Sandália 2em1 Napa Off White Colorblock Com Traseiro Fechado 4cm",
+    "codigo": "Cod:4061",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Sandália 2em1 Napa Esmeralda Colorblock Com Traseiro Fechado 4cm",
+    "codigo": "Cod:4049",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Sandália Metalizado Ouro Com Traseiro Fechado 4cm",
+    "codigo": "Cod:3793",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Sandália Napa Preto Com Meia Esferas 4cm",
+    "codigo": "Cod:3346",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Sandália Napa Rosa Shock Com Strass 4cm",
+    "codigo": "Cod:3188",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Sandália Verniz Netuno Com Borboletas Azul salto 4cm",
+    "codigo": "Cod:3368",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Sandália Verniz Salinas Com Borboletas Esmeralda salto 4cm",
+    "codigo": "Cod:3367",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Sandália Lizard Maré salto 4cm",
+    "codigo": "Cod:2773",
+    "valor": "49,9",
+    "valor_com_acrescimo": "117,27"
+  },
+  {
+    "produto": "Sandália Lizard Lemon salto 4cm",
+    "codigo": "Cod:2775",
+    "valor": "49,9",
+    "valor_com_acrescimo": "117,27"
+  },
+  {
+    "produto": "Sandália Verniz Salinas salto 4cm",
+    "codigo": "Cod:2694",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sandália Verniz Íris salto 4cm",
+    "codigo": "Cod:2695",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sandália Verniz Salinas/2em1 salto 4cm",
+    "codigo": "Cod:2601",
+    "valor": "54,9",
+    "valor_com_acrescimo": "129,02"
+  },
+  {
+    "produto": "Sandália Verniz Azaléia/2em1 salto 4cm",
+    "codigo": "Cod:2602",
+    "valor": "54,9",
+    "valor_com_acrescimo": "129,02"
+  },
+  {
+    "produto": "Sandália Napa Preto Boho Com Meia Esferas Salto 5cm",
+    "codigo": "Cod:4185",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Sandália Napa Terra Boho Com Meia Esferas Salto 5cm",
+    "codigo": "Cod:4184",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Sandália Napa Instense Texas Com Laços Salto 5cm",
+    "codigo": "Cod:4169",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Sandália Napa Instense Caramelo Com Laços Salto 5cm",
+    "codigo": "Cod:4168",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Sandália Napa Instense Preto Com Laços Salto 5cm",
+    "codigo": "Cod:4167",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Sandália Napa Instense Preto Com Meia Esferas Salto 5cm",
+    "codigo": "Cod:4152",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Sandália Napa Instense Off White Com Meia Esferas Salto 5cm",
+    "codigo": "Cod:4153",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Sandália Napa Instense Caramelo Com Meia Esferas Salto 5cm",
+    "codigo": "Cod:4154",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Sandália Napa Cappuccino Peça Laço Salto 5cm",
+    "codigo": "Cod:4018",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Sandália Napa Preto Peça Laço Salto 5cm",
+    "codigo": "Cod:4017",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Sandália Napa Palha Entrelaçada Bico Folha Salto 5cm",
+    "codigo": "Cod:3964",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Sandália Napa Menta Entrelaçada Bico Folha Salto 5cm",
+    "codigo": "Cod:3965",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Sandália Napa Niquel Com Tiras E Esfera Salto 5cm",
+    "codigo": "Cod:3953",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Sandália Napa Preto Com Tiras E Esfera Salto 5cm",
+    "codigo": "Cod:3955",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Sandália Napa Rosado Com Tiras Costuradas Salto 5cm",
+    "codigo": "Cod:3768",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Sandália Napa Preto Com Tiras Costuradas Salto 5cm",
+    "codigo": "Cod:3769",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Sandália Napa Mojito Com Tiras Costuradas Salto 5cm",
+    "codigo": "Cod:3770",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Sandália Elegance Preto Com Tiras Paris Salto 5cm",
+    "codigo": "Cod:3746",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Sandália Napa Preto Com Meia Esferas Salto 5cm",
+    "codigo": "Cod:3701",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Sandália Napa Amêndoa Com Meia Esferas Salto 5cm",
+    "codigo": "Cod:3702",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Sandália Lizard Caramelo salto 5cm",
+    "codigo": "Cod:3688",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Sandália Lizard Preto salto 5cm",
+    "codigo": "Cod:3690",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Sandália Napa Âmbar Com Laço E Tiras Paris Salto 5cm",
+    "codigo": "Cod:3967",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Sandália Napa Preto Com Laço E Tiras Paris Salto 5cm",
+    "codigo": "Cod:3969",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Sandália Napa Branco Mola salto 5cm",
+    "codigo": "Cod:3539",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Sandália Napa Ferrari Mola salto 5cm",
+    "codigo": "Cod:3540",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Sandália Napa Preto Mola salto 5cm",
+    "codigo": "Cod:3541",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Sandália Napa Rosado Mola salto 5cm",
+    "codigo": "Cod:3542",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Sandália Napa Intense Preto Com Esferas Salto Cromado 7cm",
+    "codigo": "Cod:4242",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Sandália Napa Intense Blush Com Esferas Salto Cromado 7cm",
+    "codigo": "Cod:4242",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Sandália Napa Natural Com Nó Strass 7cm",
+    "codigo": "Cod:4198",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Sandália Napa Preto Com Nó Strass 7cm",
+    "codigo": "Cod:4197",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Sandália Metalizada Prata 7cm",
+    "codigo": "Cod:3912",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Sandália Napa Madri Rocha Salto 7cm",
+    "codigo": "Cod:4234",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Sandália Napa Madri Cappuccino Salto 7cm",
+    "codigo": "Cod:4233",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Sandália Napa Off White Com Flor 7cm",
+    "codigo": "Cod:4219",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Sandália Napa Terra Com Flor 7cm",
+    "codigo": "Cod:4220",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Sandália Napa Natural Salto Geométrico 9cm",
+    "codigo": "Cod:4132",
+    "valor": "129,9",
+    "valor_com_acrescimo": "305,27"
+  },
+  {
+    "produto": "Sandália Napa Preto Salto Geométrico 9cm",
+    "codigo": "Cod:4131",
+    "valor": "129,9",
+    "valor_com_acrescimo": "305,27"
+  },
+  {
+    "produto": "Sandália Metalizado Rosa Salto Taça salto 9cm",
+    "codigo": "Cod:2936",
+    "valor": "69,9",
+    "valor_com_acrescimo": "164,27"
+  },
+  {
+    "produto": "Sandália Napa Preto Com Nó Strass salto 9cm",
+    "codigo": "Cod:4202",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Sandália Metalizado Prata Com Nó Strass salto 9cm",
+    "codigo": "Cod:4201",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Sandália Metalizado Cobre Com Nó Strass salto 9cm",
+    "codigo": "Cod:4200",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Sandália Napa Vintage Preto Com Vinil X salto 9cm",
+    "codigo": "Cod:3082",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Sandália Napa Vintage Branco Com Vinil X salto 9cm",
+    "codigo": "Cod:3083",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Sandália Alumínio Ouro Com Vinil X salto 9cm",
+    "codigo": "Cod:3085",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sandália Napa Preto Bico Folha Com Ilhóis salto 9cm",
+    "codigo": "Cod:3131",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Sandália Verniz Fresh salto 9cm",
+    "codigo": "Cod:2321",
+    "valor": "46,9",
+    "valor_com_acrescimo": "110,22"
+  },
+  {
+    "produto": "Sandália Verniz Salinas salto 9cm",
+    "codigo": "Cod:2322",
+    "valor": "46,9",
+    "valor_com_acrescimo": "110,22"
+  },
+  {
+    "produto": "Sandália Verniz Preto/Vinil salto 9cm",
+    "codigo": "Cod:2491",
+    "valor": "49,9",
+    "valor_com_acrescimo": "117,27"
+  },
+  {
+    "produto": "Sandália Verniz Irís/Vinil salto 9cm",
+    "codigo": "Cod:2492",
+    "valor": "49,9",
+    "valor_com_acrescimo": "117,27"
+  },
+  {
+    "produto": "Sandália Verniz Salinas /Vinil salto 9cm",
+    "codigo": "Cod:2493",
+    "valor": "49,9",
+    "valor_com_acrescimo": "117,27"
+  },
+  {
+    "produto": "Sandália Verniz Palha Fivela Cruzada X Solado Natural Salto 9cm",
+    "codigo": "Cod:3803",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Sandália Metalizada Pink salto 9cm",
+    "codigo": "Cod:2484",
+    "valor": "54,9",
+    "valor_com_acrescimo": "129,02"
+  },
+  {
+    "produto": "Sandália Metalizada Ouro salto 9cm",
+    "codigo": "Cod:2485",
+    "valor": "54,9",
+    "valor_com_acrescimo": "129,02"
+  },
+  {
+    "produto": "Sandália Napa Ferrari /Mola salto 9cm",
+    "codigo": "Cod:2444",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Sandália Croco Preto Slingack salto 9cm",
+    "codigo": "Cod:3822",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Sandália Napa Aloha/Pirâmides salto 9cm",
+    "codigo": "Cod:2512",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sandália Napa Solar/Pirâmides salto 9cm",
+    "codigo": "Cod:2513",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sandália Metalizado Pink/Nó Strass salto 9cm",
+    "codigo": "Cod:2533",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Sandália Metalizado Pewter salto 9cm",
+    "codigo": "Cod:3164",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Sandália Metalizada Cobre salto 9cm",
+    "codigo": "Cod:3166",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Sandália Verniz Fresh salto 9cm",
+    "codigo": "Cod:2449",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sandália Napa Preto Com Spikes E Bico Folha salto 9cm",
+    "codigo": "Cod:3065",
+    "valor": "69,9",
+    "valor_com_acrescimo": "164,27"
+  },
+  {
+    "produto": "Sandália Napa Branco Com Spikes E Bico Folha salto 9cm",
+    "codigo": "Cod:3067",
+    "valor": "69,9",
+    "valor_com_acrescimo": "164,27"
+  },
+  {
+    "produto": "Sandália Napa Tutti Frutti Com Spikes E Bico Folha salto 9cm",
+    "codigo": "Cod:3068",
+    "valor": "69,9",
+    "valor_com_acrescimo": "164,27"
+  },
+  {
+    "produto": "Sandália Napa Rosa 2em1 salto 9cm",
+    "codigo": "Cod:2433",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sandália Napa Salinas 2em1 salto 9cm",
+    "codigo": "Cod:2434",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sandália Napa Nude 2em1 salto 9cm",
+    "codigo": "Cod:2435",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sandália Napa Preto 2em1 salto 9cm",
+    "codigo": "Cod:2436",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sandália Verniz Branco 2EM1 Forro Vermelho salto 9cm",
+    "codigo": "Cod:4051",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Sandália Verniz Rosado 2EM1 Forro Vermelho salto 9cm",
+    "codigo": "Cod:4052",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Sandália Verniz Terra 2EM1 salto 9cm",
+    "codigo": "Cod:4028",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Sandália Verniz Preto 2EM1 salto 9cm",
+    "codigo": "Cod:4027",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Sandália Metalizada Ouro salto 9cm",
+    "codigo": "Cod:2874",
+    "valor": "54,9",
+    "valor_com_acrescimo": "129,02"
+  },
+  {
+    "produto": "Sandália Metalizada Rose salto 9cm",
+    "codigo": "Cod:2875",
+    "valor": "54,9",
+    "valor_com_acrescimo": "129,02"
+  },
+  {
+    "produto": "Sandália Napa Branco 2em1 salto 9cm",
+    "codigo": "Cod:3819",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sandália Verniz Salinas salto 9cm",
+    "codigo": "Cod:2402",
+    "valor": "49,9",
+    "valor_com_acrescimo": "117,27"
+  },
+  {
+    "produto": "Sandália Verniz Fresh salto 9cm",
+    "codigo": "Cod:2403",
+    "valor": "49,9",
+    "valor_com_acrescimo": "117,27"
+  },
+  {
+    "produto": "Sandália Verniz Branco salto 9cm",
+    "codigo": "Cod:3459",
+    "valor": "54,9",
+    "valor_com_acrescimo": "129,02"
+  },
+  {
+    "produto": "Sandália Verniz Rosado salto 9cm",
+    "codigo": "Cod:3460",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Sandália Verniz Bromélia salto 9cm",
+    "codigo": "Cod:3461",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Sandália Verniz Preto salto 9cm",
+    "codigo": "Cod:1644",
+    "valor": "54,9",
+    "valor_com_acrescimo": "129,02"
+  },
+  {
+    "produto": "Sandália Verniz Rosa salto 9cm",
+    "codigo": "Cod:2880",
+    "valor": "54,9",
+    "valor_com_acrescimo": "129,02"
+  },
+  {
+    "produto": "Sandália Metalizado Champagne Com Manta Espelhada Salto Bloco 9cm",
+    "codigo": "Cód.:3899",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Sandália Napa Branco Esfera Metalizada Salto Bloco 9cm",
+    "codigo": "Cód.:3307",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Sandália Verniz Preto/Vinil/Spike 9cm",
+    "codigo": "Cod:2382",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sandália Verniz Branco/Vinil/Spike 9cm",
+    "codigo": "Cod:2383",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sandália Napa Ferrari Salto 9cm",
+    "codigo": "Cod:3694",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Sandália Napa Preto salto 9cm",
+    "codigo": "Cod:2413",
+    "valor": "69,9",
+    "valor_com_acrescimo": "164,27"
+  },
+  {
+    "produto": "Sapatilha Napa Rosado Com Spikes",
+    "codigo": "Cod.3798",
+    "valor": "69,9",
+    "valor_com_acrescimo": "164,27"
+  },
+  {
+    "produto": "Sapatilha Napa Off White E Palha Com Spikes",
+    "codigo": "Cod.3799",
+    "valor": "69,9",
+    "valor_com_acrescimo": "164,27"
+  },
+  {
+    "produto": "Sapatilha Verniz Ferrari Slingback Fivelas Salto 2cm",
+    "codigo": "Cod.3670",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Sapatilha Napa Western Preto Slingback Salto 2cm",
+    "codigo": "Cod.3465",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Sapatilha Napa Western Canela Slingback Salto 2cm",
+    "codigo": "Cod.3466",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Sapatilha Napa Preto Com Pirâmides",
+    "codigo": "Cod.3120",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Sapatilha Metalizado Ouro Light Com Pirâmides",
+    "codigo": "Cod.3121",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Sapatilha Napa Âmbar Com Pirâmides",
+    "codigo": "Cod.3122",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Sapatilha Croco Preto Com Detalhe Pewter",
+    "codigo": "Cod.3015",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Sapatilha Croco Rosado Com Detalhe Cobre",
+    "codigo": "Cod.3016",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Sapatilha Pelo Onça Com Detalhe Cobre",
+    "codigo": "Cd.3017",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Sapatilha Croco Marsala Com Detalhe Marsala",
+    "codigo": "Cod.3018",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Sapatilha Jeans Claro Com Laço Azul",
+    "codigo": "Cod.2884",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Sapatilha Napa Rosado Com Laço Cobre",
+    "codigo": "Cod.2885",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Sapatilha Napa Preto Com Laço Pewter",
+    "codigo": "Cod.2886",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sapatilha Napa Off White Com Bico Verniz Palha Tiras Cruzadas",
+    "codigo": "Cod.3714",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sapatilha Verniz Clean Slingback",
+    "codigo": "Cod.3488",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sapatilha Verniz Preto Slingback",
+    "codigo": "Cod.3489",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sapatilha Verniz Marsala Slingback",
+    "codigo": "Cod.3490",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sapatilha Verniz Marsala Com Bico Preto Slingback",
+    "codigo": "Cod.3478",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sapatilha Verniz Dolce Com Bico Preto Slingback",
+    "codigo": "Cod.3479",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sapatilha Verniz Gergelim Com Bico Preto Slingback",
+    "codigo": "Cod.3480",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sapatilha Suede Preto Com Laço",
+    "codigo": "Cod.2829",
+    "valor": "39,9",
+    "valor_com_acrescimo": "93,77"
+  },
+  {
+    "produto": "Sapatilha Metalizado Ouro Light Com Tiras Cruzado",
+    "codigo": "Cod.3525",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Sapatilha Metalizado Marsala Com Tiras Cruzado",
+    "codigo": "Cod.3526",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Sapatilha Napa Menta Com Laço Strass Colorido",
+    "codigo": "Cod.3216",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sapatilha Napa Candy Com Laço Strass Colorido",
+    "codigo": "Cod.3217",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sapatilha Napa Rouge Com Laço Strass Colorido",
+    "codigo": "Cod.3218",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sapatilha Napa Navy Com Laço Strass Cobre",
+    "codigo": "Cod.3223",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sapatilha Napa Aveia Com Laço Strass Colorido",
+    "codigo": "Cod.3225",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sapatilha Napa Azaléia Com Laço Strass Pink",
+    "codigo": "Cod.3233",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sapatilha Napa Preto Com Fivelas",
+    "codigo": "Cod.3400",
+    "valor": "69,9",
+    "valor_com_acrescimo": "164,27"
+  },
+  {
+    "produto": "Sapatilha Napa Off White Com Fivelas",
+    "codigo": "Cod.3401",
+    "valor": "69,9",
+    "valor_com_acrescimo": "164,27"
+  },
+  {
+    "produto": "Sapatilha Napa Rosado Com Fivelas",
+    "codigo": "Cod.3402",
+    "valor": "69,9",
+    "valor_com_acrescimo": "164,27"
+  },
+  {
+    "produto": "Sapatilha Napa Preto Com Enfeite Redondo",
+    "codigo": "Cod.3273",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Sapatilha Napa Carvalho Com Enfeite Redondo",
+    "codigo": "Cod.3274",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Sapatilha Napa Candy Com Enfeite Redondo",
+    "codigo": "Cod.3275",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Sapatilha Napa Navy Com Enfeite Redondo",
+    "codigo": "Cod.3276",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Sapatilha Metalizado Pewter Com Ilhóis E Argolas",
+    "codigo": "Cod.3197",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Sapatilha Metalizado Ouro Com Ilhóis E Argolas",
+    "codigo": "Cod.3198",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Sapatilha Napa Rosado Com Ilhóis E Argolas",
+    "codigo": "Cod.3199",
+    "valor": "44,9",
+    "valor_com_acrescimo": "105,52"
+  },
+  {
+    "produto": "Sapatilha Napa Preto Com Ilhóis E Argolas",
+    "codigo": "Cod.3200",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Sapatilha Napa Off White Bico Verniz E Laço",
+    "codigo": "Cod.3103",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Sapatilha Napa Rosado Bico Verniz E Laço",
+    "codigo": "Cod.3104",
+    "valor": "44,9",
+    "valor_com_acrescimo": "105,52"
+  },
+  {
+    "produto": "Sapatilha Napa Ônix Nó Suede Cristal Pewter",
+    "codigo": "Cod.3048",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sapatilha Napa Candy Nó Suede Cristal Rose",
+    "codigo": "Cod.3050",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sapatilha Croco Metalizado Pewter Com Laço E Medalha",
+    "codigo": "Cod.2966",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sapatilha Cronos Metalizado Pewter",
+    "codigo": "Cod.2939",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Sapatilha Cronos Metalizado Ouro",
+    "codigo": "Cod.2941",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Sapatilha Verniz Preto Quatro Fivelas",
+    "codigo": "Cod.3420",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Sapatilha Verniz Rosado Quatro Fivelas",
+    "codigo": "Cod.3421",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Sapatilha Napa Preto Enfeite Gravata Ouro",
+    "codigo": "Cod.3182",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Sapatilha Napa Rosado Enfeite Gravata Ouro",
+    "codigo": "Cod.3183",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Sapatilha Napa Rosa Shock Enfeite Gravata Ouro",
+    "codigo": "Cod.3184",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Sapatilha Napa Navy Enfeite Gravata Ouro",
+    "codigo": "Cod.3185",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Sapatilha Metalizado Preto Com Bico Glitter",
+    "codigo": "Cod.3342",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Sapatilha Metalizado Rose Com Bico Glitter",
+    "codigo": "Cod.3343",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Sapatilha Lizard Metalizado Ouro",
+    "codigo": "Cod.2898",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Sapatilha Jeans Escuro",
+    "codigo": "Cod.2899",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Sapatilha Lizard Metalizado Pewter",
+    "codigo": "Cod.2900",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Sapatilha Verniz Nude",
+    "codigo": "Cod:3597",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sapatilha Verniz Branco",
+    "codigo": "Cod:3598",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sapatilha Verniz Ferrari",
+    "codigo": "Cod:3600",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sapatilha Verniz Marsala",
+    "codigo": "Cod:3601",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sapatilha Charme Ouro Light",
+    "codigo": "Cod:3599",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sapatilha Charme Pewter",
+    "codigo": "Cod:3613",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sapatilha Suede Preto Com Vinil Tiras",
+    "codigo": "Cod.3566",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sapatilha Suede Army Com Vinil Tiras",
+    "codigo": "Cod.3567",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sapatilha Suede Rosado Com Vinil Tiras",
+    "codigo": "Cod.3568",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sapatilha Suede Marsala Com Vinil Tiras",
+    "codigo": "Cod.3569",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sapatilha Essence Pewter Com Vinil",
+    "codigo": "Cod.2974",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sapatilha Suede Preto Com Vinil",
+    "codigo": "Cod.2960",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sapatilha Suede Rosado Com Vinil",
+    "codigo": "Cod.2961",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Sapatilha Suede Pólvora Com Vinil",
+    "codigo": "Cod.2962",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Scarpin Napa Intense Caramelo Long Beak Salto Bloco 11cm",
+    "codigo": "Cód. 4196",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Napa Intense Long Beak Salto Bloco 11cm",
+    "codigo": "Cód. 4195",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Napa Intense Marsala Long Beak Salto Bloco 11cm",
+    "codigo": "Cód. 4193",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Napa Intense Preto Long Beak Salto Bloco 11cm",
+    "codigo": "Cód. 4194",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Verniz Preto Tela Longbeak",
+    "codigo": "Cod:4210",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Scarpin Verniz Chocolate Tela Longbeak",
+    "codigo": "Cod:4209",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Scarpin Verniz Amêndoa Cruzado Longbeak",
+    "codigo": "Cod:4138",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Scarpin Cinderela Ouro Light Com Vinil",
+    "codigo": "Cod:4110",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Verniz Ferrari Coração Long beak",
+    "codigo": "Cod:4074",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Tecido Animal Print Onça Longbeak",
+    "codigo": "Cod:3946",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Scarpin Verniz Esmeralda SEB",
+    "codigo": "Cod:4109",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Napa Rosa Long Beak Com Strass 2em1",
+    "codigo": "Cod:3870",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Scarpin Napa Blush Long Beak Com Duas Fivelas 11cm",
+    "codigo": "Cód.:3864",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Verniz Off White Slingback 11cm",
+    "codigo": "Cód.:3763",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Scarpin Verniz Navy Slingback 11cm",
+    "codigo": "Cód.:3497",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Scarpin Verniz Lady Slingback 11cm",
+    "codigo": "Cód.:3498",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Scarpin Verniz Preto Slingback 11cm",
+    "codigo": "Cód.:3445",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Scarpin Napa Veluto Com Nó Strass Salto 11cm",
+    "codigo": "Cód.: 4188",
+    "valor": "129,9",
+    "valor_com_acrescimo": "305,27"
+  },
+  {
+    "produto": "Scarpin Napa Branco Com Nó Strass Salto 11cm",
+    "codigo": "Cód.: 4189",
+    "valor": "129,9",
+    "valor_com_acrescimo": "305,27"
+  },
+  {
+    "produto": "Scarpin Napa Preto Com Nó Strass Salto 11cm",
+    "codigo": "Cód.: 4190",
+    "valor": "129,9",
+    "valor_com_acrescimo": "305,27"
+  },
+  {
+    "produto": "Scarpin Napa Terra Longbeak Com Tira Strass Salto 11cm",
+    "codigo": "Cód.: 4179",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Scarpin Napa Natural Longbeak Com Tira Strass Salto 11cm",
+    "codigo": "Cód.: 4178",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Scarpin Napa Preto Longbeak Com Tira Strass Salto 11cm",
+    "codigo": "Cód.: 4176",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Scarpin Napa Marsala Longbeak Com Tira Strass Salto 11cm",
+    "codigo": "Cód.: 4177",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Scarpin Napa Preto Com Nobuck Salto 11cm",
+    "codigo": "Cód.: 4166",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Scarpin Napa Natural Com Nobuck Salto 11cm",
+    "codigo": "Cód.: 4165",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Scarpin Napa Preto Com Tira Strass Salto 11cm",
+    "codigo": "Cód.: 3651",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Napa Preto Com Tweed E Spikes 11cm",
+    "codigo": "Cód.: 4031",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Scarpin Napa Preto Com Tecido Onça E Spikes 11cm",
+    "codigo": "Cód.: 4029",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Scarpin Napa Rosado E Verniz Rosado 11cm",
+    "codigo": "Cód.: 3707",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Scarpin Napa Preto E Verniz Rosado 11cm",
+    "codigo": "Cód.: 3709",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Scarpin Napa Coral Com Vinil 11cm",
+    "codigo": "Cód.: 3268",
+    "valor": "69,9",
+    "valor_com_acrescimo": "164,27"
+  },
+  {
+    "produto": "Scarpin Verniz Fresh/Sola Natural 11cm",
+    "codigo": "Cód.: 2223",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Scarpin Verniz Maré/Sola Natural 11cm",
+    "codigo": "Cód.: 2224",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Scarpin Verniz Aloha/Sola Onça 11cm",
+    "codigo": "Cód.: 2225",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Scarpin Verniz Aurora/Sola Onça 11cm",
+    "codigo": "Cód.: 1965",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Scarpin Verniz Lemon/Sola Onça 11cm",
+    "codigo": "Cód.: 1963",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Scarpin Luxor Champagne 11cm",
+    "codigo": "Cód.: 1489",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Scarpin verniz Preto salto 11cm",
+    "codigo": "Cod:498",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Scarpin verniz Nude salto 11cm",
+    "codigo": "Cod:497",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Scarpin verniz Branco salto 11cm",
+    "codigo": "Cod:532",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Scarpin Verniz Lemon 11cm",
+    "codigo": "Cód.:2035",
+    "valor": "49,9",
+    "valor_com_acrescimo": "117,27"
+  },
+  {
+    "produto": "Scarpin Napa Rosa Fivela Com Vinil 11cm",
+    "codigo": "Cód.: 3758",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Luxor Champagne/ Vinil 11cm",
+    "codigo": "Cod:1851",
+    "valor": "54,9",
+    "valor_com_acrescimo": "129,02"
+  },
+  {
+    "produto": "Scarpin Luxor Marinho/ Vinil 11cm",
+    "codigo": "Cod:2056",
+    "valor": "54,9",
+    "valor_com_acrescimo": "129,02"
+  },
+  {
+    "produto": "Scarpin Vinil/ Verniz Lemon salto 11cm",
+    "codigo": "Cod:2041",
+    "valor": "49,9",
+    "valor_com_acrescimo": "117,27"
+  },
+  {
+    "produto": "Scarpin Vinil/ Luxor Preto salto 11cm",
+    "codigo": "Cod:2042",
+    "valor": "49,9",
+    "valor_com_acrescimo": "117,27"
+  },
+  {
+    "produto": "Scarpin Vinil/ Luxor Champagne salto 11cm",
+    "codigo": "Cod:1836",
+    "valor": "49,9",
+    "valor_com_acrescimo": "117,27"
+  },
+  {
+    "produto": "Scarpin Napa Ônix Lumicolor Pewter 11cm",
+    "codigo": "Cod:3728",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Napa Ferrari Colorblock LongBeak Salto 11cm",
+    "codigo": "Cód.4123",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Napa Preto Sola Natural Colorblock LongBeak Salto 11cm",
+    "codigo": "Cód.4126",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Napa Preto Sola Natural Long Beak Salto 11cm",
+    "codigo": "Cód.3736",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Napa Marfim Long Beak Salto 11cm",
+    "codigo": "Cód.3734",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Napa Rosa Long Beak Salto 11cm",
+    "codigo": "Cód.3733",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Verniz Malwe Colorblock LongBeak Salto 11cm",
+    "codigo": "Cód.4246",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Verniz Menta Colorblock LongBeak Salto 11cm",
+    "codigo": "Cód.4245",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Verniz Baby Blue Colorblock LongBeak Salto 11cm",
+    "codigo": "Cód.4244",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Verniz Branco Colorblock Long Beak Salto 11cm",
+    "codigo": "Cód.4092",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Verniz Branco Colorblock LongBeak Sola Vermelha Salto 11cm",
+    "codigo": "Cód.4225",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Verniz Nude LongBeak Interior Vermelho Salto 11cm",
+    "codigo": "Cód.4226",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Verniz Nude LongBeak Sola Natural Salto 11cm",
+    "codigo": "Cód.4173",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Verniz Nude LongBeak Sola E Forro Vermelha Salto 11cm",
+    "codigo": "Cód.4174",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Verniz Terra Long Beak Sola Natural Salto 11cm",
+    "codigo": "Cód.4076",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Verniz Malbec LongBeak Sola Natural Salto 11cm",
+    "codigo": "Cód.4175",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Verniz Ônix Long Beak Sola Natural Salto 11cm",
+    "codigo": "Cód.4039",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Verniz Ferrari Long Beak Sola Natural Salto 11cm",
+    "codigo": "Cód.4040",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Verniz Amêndoa Forro Rosa Long Beak Sola Natural Salto 11cm",
+    "codigo": "Cód.4104",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Verniz Preto Forro Rosa Long Beak Sola Natural Salto 11cm",
+    "codigo": "Cód.4106",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Verniz Preto Long Beak Sola Natural Salto 11cm",
+    "codigo": "Cód.4005",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Verniz Ônix Long Beak Colorblock Salto 11cm",
+    "codigo": "Cód.3841",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Verniz Preto Long Beak Colorblock Preto Salto 11cm",
+    "codigo": "Cód.3842",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Verniz Preto Long Beak Interior Vermelho Salto 11cm",
+    "codigo": "Cód.3826",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Verniz Ferrari Long Beak Colorblock Salto 11cm",
+    "codigo": "Cód.3827",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin VZ Ferrari salto 11cm solado natural",
+    "codigo": "Cód.3440",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Scarpin Verniz Preto Colorblock Salto 11cm",
+    "codigo": "Cód.3922",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Verniz Branco Colorblock Salto 11cm solado natural",
+    "codigo": "Cód.3923",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Verniz Baby Blue Colorblock Salto 11cm solado natural",
+    "codigo": "Cód.3924",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Verniz Amanhecer Colorblock Salto 11cm solado natural",
+    "codigo": "Cód.3904",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Verniz Citrus salto 11cm solado natural",
+    "codigo": "Cód.3578",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Scarpin Verniz Lady salto 11cm solado natural",
+    "codigo": "Cód.3580",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Scarpin VZ Star salto 11cm solado natural",
+    "codigo": "Cód.3000",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Scarpin VZ Cosmo salto 11cm solado natural",
+    "codigo": "Cód.2998",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Scarpin vz Fresh/ Sola Zebra 11cm",
+    "codigo": "Cód.: 2252",
+    "valor": "49,9",
+    "valor_com_acrescimo": "117,27"
+  },
+  {
+    "produto": "Scarpin Verniz Lemon 11cm",
+    "codigo": "Cód.:1791",
+    "valor": "49,9",
+    "valor_com_acrescimo": "117,27"
+  },
+  {
+    "produto": "Scarpin verniz nude salto 11cm",
+    "codigo": "Cod:1766",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Scarpin verniz branco salto 11cm",
+    "codigo": "Cod:1769",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin verniz ferrari salto 11cm",
+    "codigo": "Cod:1119",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Scarpin Animal Print Lemon 11cm",
+    "codigo": "Cod:2502",
+    "valor": "49,9",
+    "valor_com_acrescimo": "117,27"
+  },
+  {
+    "produto": "Scarpin Animal Print Azaléia 11cm",
+    "codigo": "Cod:2503",
+    "valor": "49,9",
+    "valor_com_acrescimo": "117,27"
+  },
+  {
+    "produto": "Scarpin Napa Pétala Salto 11cm",
+    "codigo": "Cod:3683",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Scarpin Napa Branco 11cm",
+    "codigo": "Cod:3290",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Scarpin Napa Coral 11cm",
+    "codigo": "Cod:3291",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Scarpin Napa Preto 11cm",
+    "codigo": "Cod:2122",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Napa Branco Colorblock Salto 11cm",
+    "codigo": "Cod:3880",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Napa Vermelho Colorblock Salto 11cm",
+    "codigo": "Cod:3881",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Cinderela Preto LongBeak Salto 11cm",
+    "codigo": "Cod:4239",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Cinderela Ouro Light LongBeak Salto 11cm",
+    "codigo": "Cod:4240",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Cinderela Prata LongBeak Salto 11cm",
+    "codigo": "Cod:4236",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Cinderela Rose LongBeak Salto 11cm",
+    "codigo": "Cod:4235",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Blossom Preto Salto 11cm",
+    "codigo": "Cod:3891",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Blossom Rose Salto 11cm",
+    "codigo": "Cod:3892",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin luxor oil salto 11cm",
+    "codigo": "Cod:1771",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Scarpin Luxor champagne salto 11cm",
+    "codigo": "Cod:1770",
+    "valor": "54,9",
+    "valor_com_acrescimo": "129,02"
+  },
+  {
+    "produto": "Scarpin Pelo Onça 11cm",
+    "codigo": "Cod:1838",
+    "valor": "54,9",
+    "valor_com_acrescimo": "129,02"
+  },
+  {
+    "produto": "Peep Toe Croco Preto 9cm",
+    "codigo": "Cod:3543",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Peep Toe Croco Caramelo 9cm",
+    "codigo": "Cod:3544",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Peep Toe Croco Marsala 9cm",
+    "codigo": "Cod:3545",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Scarpin Verniz Rosa Shock Boneca Formato Coração 9cm",
+    "codigo": "Cod:3656",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Napa Dolce Boneca Fivela De Strass 9cm",
+    "codigo": "Cod:3509",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Salamanta Pink/Fivela 9cm",
+    "codigo": "Cod:2708",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Scarpin Verniz Malbec Salto Bloco 9cm",
+    "codigo": "Cod:4183",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Verniz Terra Salto Bloco 9cm",
+    "codigo": "Cod:4182",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Verniz Amêndoa Salto Bloco 9cm",
+    "codigo": "Cod:4181",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Verniz Preto Salto Bloco 9cm",
+    "codigo": "Cod:4100",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Napa Rosa Shock Taloneira Pink 9cm",
+    "codigo": "Cod:3314",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Scarpin Metalizado Marsala 2EM1 Com Vinil Salto Bloco 9cm",
+    "codigo": "Cod:3677",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Napa Preto Essence Preto 9cm",
+    "codigo": "Cod:3610",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Suede Preto Franja E Corrente 9cm",
+    "codigo": "Cod:2910",
+    "valor": "69,9",
+    "valor_com_acrescimo": "164,27"
+  },
+  {
+    "produto": "Scarpin Suede Army Franja E Corrente 9cm",
+    "codigo": "Cod:2911",
+    "valor": "69,9",
+    "valor_com_acrescimo": "164,27"
+  },
+  {
+    "produto": "Scarpin Suede Navy Franja E Corrente 9cm",
+    "codigo": "Cod:2912",
+    "valor": "69,9",
+    "valor_com_acrescimo": "164,27"
+  },
+  {
+    "produto": "Scarpin Suede Pétala Franja E Corrente 9cm",
+    "codigo": "Cod:2913",
+    "valor": "69,9",
+    "valor_com_acrescimo": "164,27"
+  },
+  {
+    "produto": "Scarpin Napa Navy Salto Bloco 9cm",
+    "codigo": "Cod:3535",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Napa Azul Colorblock Salto Quinado 9cm",
+    "codigo": "Cod:4071",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Napa Navy Slinback Duas Fivelas Salto 9cm",
+    "codigo": "Cod:3605",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Suede Preto Com Fivelas Salto 9cm",
+    "codigo": "Cod:3590",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Metalizado Ouro Com Laço Salto 9cm",
+    "codigo": "Cod:3550",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Verniz Star Cruzado 9cm",
+    "codigo": "Cod:3529",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Napa/VZ Salinas 9cm",
+    "codigo": "Cod:2351",
+    "valor": "69,9",
+    "valor_com_acrescimo": "164,27"
+  },
+  {
+    "produto": "Scarpin Verniz Army Colorblock Abertura Lateral Salto 9cm",
+    "codigo": "Cód.4008",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Longbeak Napa Palma Abertura Lateral Salto 9cm",
+    "codigo": "Cód.4208",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Longbeak Napa Azul Abertura Lateral Salto 9cm",
+    "codigo": "Cód.4207",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Longbeak Napa Preto Abertura Lateral Salto 9cm",
+    "codigo": "Cód.4205",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Verniz Ônix Colorblock 9cm",
+    "codigo": "Cod:3874",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Verniz Branco Colorblock 9cm",
+    "codigo": "Cod:3873",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Verniz Malbec Colorblock 9cm",
+    "codigo": "Cod:4114",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Verniz Esmeralda Colorblock Sola Natural 9cm",
+    "codigo": "Cod:4115",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Verniz Preto All Black Sola Natural 9cm",
+    "codigo": "Cod:4116",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Verniz Ferrari Colorblock 9cm",
+    "codigo": "Cod:3872",
+    "valor": "69,9",
+    "valor_com_acrescimo": "164,27"
+  },
+  {
+    "produto": "Scarpin Verniz Preto All Black 9cm",
+    "codigo": "Cod:3801",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Verniz Nude Sola Natural 9cm",
+    "codigo": "Cod:4113",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Verniz Nude salto 9cm",
+    "codigo": "Cod:1934",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Verniz Ferrari Solado Natural 9cm",
+    "codigo": "Cod:3138",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Scarpin Verniz Amanhecer Solado Natural 9cm",
+    "codigo": "Cod:3140",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Scarpin Verniz Branco Solado Natural 9cm",
+    "codigo": "Cod:2915",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Scarpin Napa Cacau Colorblock Longbeak Salto 9cm",
+    "codigo": "Cod:4248",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Napa Preto Longbeak Interior Vermelho Salto 9cm",
+    "codigo": "Cod:4247",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Napa Marfim Forro Vermelho Salto 9cm",
+    "codigo": "Cod:4068",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Napa Ferrari Colorblock Salto 9cm",
+    "codigo": "Cod:4065",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Napa Branco Solado Natural 9cm",
+    "codigo": "Cod:3279",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Scarpin Mule Verniz Niquel Salto 9cm",
+    "codigo": "Cod:3861",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Mule Verniz Ferrari Salto 9cm",
+    "codigo": "Cod:3862",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Mule Verniz Nude Salto 9cm",
+    "codigo": "Cod:3863",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Verniz Ônix Fivelas Salto Quinado 9cm",
+    "codigo": "Cod:3661",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scapin Verniz Rosa Shock Slingback Coração Salto 7cm",
+    "codigo": "Cod.3647",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scapin Verniz Scarlet Slingback Liso Salto 7cm",
+    "codigo": "Cod.3627",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scapin Metalizado Topázio Slingback Liso Salto 7cm",
+    "codigo": "Cod.3628",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scapin Verniz Star Slingback 7cm",
+    "codigo": "Cod.3499",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Scapin Verniz Navy Slingback 7cm",
+    "codigo": "Cod.3500",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Scapin Verniz Preto Slingback 7cm",
+    "codigo": "Cod.3451",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Scarpin Suede Fuscia/Azaléia 7cm",
+    "codigo": "Cód.: 2198",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Scarpin Napa Veluto/Strass salto 7cm",
+    "codigo": "Cod:3382",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Napa Preto Com Strass salto 7cm",
+    "codigo": "Cod:3830",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Napa Pétala Com Strass salto 7cm",
+    "codigo": "Cod:3653",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Napa Palma Com Vinil salto 7cm",
+    "codigo": "Cod:3570",
+    "valor": "69,9",
+    "valor_com_acrescimo": "164,27"
+  },
+  {
+    "produto": "Scarpin Napa Branco E Lumicolor Prata Salto 7cm",
+    "codigo": "Cód.:3716",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Napa Palha E Lumicolor Cobre Salto 7cm",
+    "codigo": "Cód.:3717",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Napa Ônix E Lumicolor Pewter Salto 7cm",
+    "codigo": "Cód.:3718",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin verniz off white 7cm",
+    "codigo": "Cód.: 3684",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Scarpin Croco Cobalt Salto 7cm",
+    "codigo": "Cod:3844",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Pelo Onça 7cm",
+    "codigo": "Cod:1856",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Scarpin Verniz Star Colorblock 7cm",
+    "codigo": "Cod:3815",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Verniz Salinas 7cm",
+    "codigo": "Cod:2531",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Scarpin verniz preto 7cm",
+    "codigo": "Cód.: 1864",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Scarpin verniz Branco Colorblock Salto 7cm",
+    "codigo": "Cód: 3828",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin verniz nude 7cm",
+    "codigo": "Cód.: 1852",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin verniz ferrari 7cm",
+    "codigo": "Cód.: 2486",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Scarpin Luxor Oil 7cm",
+    "codigo": "Cód.1854",
+    "valor": "54,9",
+    "valor_com_acrescimo": "129,02"
+  },
+  {
+    "produto": "Scarpin Luxor champagne 7cm",
+    "codigo": "Cód.1855",
+    "valor": "54,9",
+    "valor_com_acrescimo": "129,02"
+  },
+  {
+    "produto": "Scarpin Napa Branco Colorblock Salto 7cm",
+    "codigo": "Cód.3887",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Napa Preto Colorblock Salto 7cm",
+    "codigo": "Cód.3889",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Napa Azul 7cm",
+    "codigo": "Cód.3467",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Scarpin Napa Marfim 7cm",
+    "codigo": "Cód.3663",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Scarpin Cinderela Preto salto 7cm",
+    "codigo": "Cod:3332",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Metalizado Bronze Com Meia Esferas Salto 5cm",
+    "codigo": "Cod:4130",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Scarpin Metalizado Preto Com Meia Esferas Salto 5cm",
+    "codigo": "Cod:4129",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Scarpin Verniz Terra SEB Salto 5cm",
+    "codigo": "Cod:4103",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Verniz Preto SEB Salto 5cm",
+    "codigo": "Cod:4102",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Scarpin Verniz Preto Aberto Lateral Salto 5cm",
+    "codigo": "Cod:4096",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Napa Preto Vazado Salto 5cm",
+    "codigo": "Cod:4043",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Scarpin Napa Intense Caramelo Meia Esferas Salto 5cm",
+    "codigo": "Cod:4033",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Scarpin Napa Intense Preto Meia Esferas Salto 5cm",
+    "codigo": "Cod:4032",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Scarpin Napa Caramelo Com Aplicação Oval salto 5cm",
+    "codigo": "Cod:4172",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Scarpin Napa Natural Com Aplicação Oval salto 5cm",
+    "codigo": "Cod:4171",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Scarpin Napa Marsala Com Aplicação Oval salto 5cm",
+    "codigo": "Cod:4170",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Scarpin Napa Terra Com Aplicação Oval salto 5cm",
+    "codigo": "Cod:4087",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Scarpin Napa Terra Com Aplicação Oval salto 5cm",
+    "codigo": "Cod:4086",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Scarpin Napa Veneza Preto Long Beak Slinback salto 5cm",
+    "codigo": "Cod:3981",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Napa Branco Long Beak Slinback salto 5cm",
+    "codigo": "Cod:3919",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Scarpin Napa Preto E Rosado 5cm",
+    "codigo": "Cod:3249",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Scarpin Napa Off White E Rosado 5cm",
+    "codigo": "Cod:3250",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Scarpin Napa Rosado 5cm",
+    "codigo": "Cod:3251",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Scarpin Croco Metalizado Preto 5cm",
+    "codigo": "Cod:3252",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Scarpin Croco Metalizado Ouro Light 5cm",
+    "codigo": "Cod:3253",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Scarpin Napa Preto salto 5cm Longbeak",
+    "codigo": "Cod:4119",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Napa Veluto salto 5cm Longbeak",
+    "codigo": "Cod:4120",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Napa Creme salto 5cm",
+    "codigo": "Cod:3288",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Scarpin Napa Branco salto 5cm",
+    "codigo": "Cod:3289",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Scarpin Napa Navy salto 5cm",
+    "codigo": "Cod:3143",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Scarpin Napa Candy salto 5cm",
+    "codigo": "Cod:3145",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Scarpin Verniz Esmeralda salto 5cm",
+    "codigo": "Cod:4133",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Verniz Malbec salto 5cm",
+    "codigo": "Cod:4134",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Verniz Preto Interior Rosa salto 5cm",
+    "codigo": "Cod:4136",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Verniz Nude Interior Rosa salto 5cm",
+    "codigo": "Cod:4135",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Verniz Menta salto 5cm",
+    "codigo": "Cod:3375",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Scarpin Verniz Rosado salto 5cm",
+    "codigo": "Cod:3376",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Scarpin Verniz Ferrari Solado Natural salto 5cm",
+    "codigo": "Cod:3377",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Scarpin Verniz Ferrari salto 5cm",
+    "codigo": "Cod:3147",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Scarpin Verniz Branco salto 5cm",
+    "codigo": "Cod:3149",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Scarpin Napa Malbec Slingback Com Tela Salto 5cm",
+    "codigo": "Cod:3987",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Scarpin Napa Cappuccino Slingback Com Tela Salto 5cm",
+    "codigo": "Cod:3988",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Scarpin Napa Preto Slingback Com Tela Salto 5cm",
+    "codigo": "Cod:3989",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Peep Toe Napa Rose Salto 5cm",
+    "codigo": "Cod:3833",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Scarpin Napa Bromélia Com Boton Oval salto 5cm",
+    "codigo": "Cod:3573",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Napa Preto Com Boton Oval salto 5cm",
+    "codigo": "Cod:3576",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Napa Rosa Shock Essence Rouge 5cm",
+    "codigo": "Cod:3213",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Suede Army Com Fivelas 5cm",
+    "codigo": "Cod:3587",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Metalizado Ouro Slingback 5cm",
+    "codigo": "Cod:3494",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Scarpin Metalizado Preto Slingback 5cm",
+    "codigo": "Cod:3496",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Scarpin Napa Preto Com Spikes Salto Oval 5cm",
+    "codigo": "Cod:3962",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Scarpin Napa E Verniz Navy Com Spikes 5cm",
+    "codigo": "Cod:3179",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Scarpin Suede Ferrari Com Franja E Corrente 5cm",
+    "codigo": "Cod:2834",
+    "valor": "69,9",
+    "valor_com_acrescimo": "164,27"
+  },
+  {
+    "produto": "Scarpin Suede Navy Com Franja E Corrente 5cm",
+    "codigo": "Cod:2835",
+    "valor": "69,9",
+    "valor_com_acrescimo": "164,27"
+  },
+  {
+    "produto": "Scarpin Suede Deserto Com Franja E Corrente 5cm",
+    "codigo": "Cod:2836",
+    "valor": "69,9",
+    "valor_com_acrescimo": "164,27"
+  },
+  {
+    "produto": "Scarpin Napa Preto Colorblock Salto 5cm",
+    "codigo": "Cod:3846",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Napa Blush Salto 5cm",
+    "codigo": "Cod:3847",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Napa Palma Colorblock Salto 5cm",
+    "codigo": "Cod:3848",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Napa Preto 5cm",
+    "codigo": "Cod:3581",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Scarpin Napa Rosa 5cm",
+    "codigo": "Cod:3583",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Scarpin Metalizado Preto Com Vinil E Pedraria 5cm",
+    "codigo": "Cod:2839",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Scarpin Metalizado Prata Com Vinil E Pedraria 5cm",
+    "codigo": "Cod:2841",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Scarpin Metalizado Pink Com Vinil E Pedraria 5cm",
+    "codigo": "Cod:2842",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Scarpin Lizard Branco 5cm",
+    "codigo": "Cod:2564",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Scarpin Lizard Preto 5cm",
+    "codigo": "Cod:2565",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Scarpin Lizard Nude 5cm",
+    "codigo": "Cod:2566",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Scarpin Lizard Metalizado Ouro 5cm",
+    "codigo": "Cod:2567",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Scarpin Verniz Preto / Coração 5cm",
+    "codigo": "Cod:2843",
+    "valor": "74,9",
+    "valor_com_acrescimo": "175,92"
+  },
+  {
+    "produto": "Scarpin Verniz Branco / Coração 5cm",
+    "codigo": "Cod:2844",
+    "valor": "74,9",
+    "valor_com_acrescimo": "175,92"
+  },
+  {
+    "produto": "Scarpin Verniz Atlântida / Coração 5cm",
+    "codigo": "Cod:2845",
+    "valor": "74,9",
+    "valor_com_acrescimo": "175,92"
+  },
+  {
+    "produto": "Scarpin Verniz Rosa Shock / Coração 5cm",
+    "codigo": "Cod:2846",
+    "valor": "74,9",
+    "valor_com_acrescimo": "175,92"
+  },
+  {
+    "produto": "Scarpin Verniz Ferrari Colorblock Salto 5cm",
+    "codigo": "Cod:3898",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Verniz Lady Colorblock Salto 5cm",
+    "codigo": "Cod:3883",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Verniz Ônix Colorblock Salto 5cm",
+    "codigo": "Cod:3886",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Verniz Terra Colorblock Salto 5cm",
+    "codigo": "Cod:3884",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Verniz Branco Colorblock Salto 5cm",
+    "codigo": "Cod:3885",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Verniz Preto 5cm",
+    "codigo": "Cod:1846",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Luxor Preto Sola Vermelha Salto Tradicional 5cm",
+    "codigo": "Cod:3133",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Scarpin Verniz Ferrari Sola Vermelha Salto Tradicional 5cm",
+    "codigo": "Cod:3134",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Scarpin Verniz Nude Sola Vermelha Salto Tradicional 5cm",
+    "codigo": "Cod:3135",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Verniz Branco 5cm",
+    "codigo": "Cod:1847",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Scarpin Luxor Champagne 5cm",
+    "codigo": "Cod:2838",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Scarpin Verniz Preto Slingback salto 5cm",
+    "codigo": "Cod:4081",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Verniz Ferrari Slingback salto 5cm",
+    "codigo": "Cod:4080",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Metalizado Champagne Com Bico Em Metalizado Preto salto 5cm",
+    "codigo": "Cod:3503",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Napa Marsala Com Bico Em Metalizado Preto salto 5cm",
+    "codigo": "Cod:3504",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Napa Preto Com Bico Em Verniz Preto salto 5cm",
+    "codigo": "Cod:3406",
+    "valor": "69,9",
+    "valor_com_acrescimo": "164,27"
+  },
+  {
+    "produto": "Scarpin Metalizado Pewter Mary Jane salto 5cm",
+    "codigo": "Cod:3501",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Metalizado Champagne Mary Jane salto 5cm",
+    "codigo": "Cod:3417",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Verniz Nude Mary Jane salto 5cm",
+    "codigo": "Cod:3416",
+    "valor": "69,9",
+    "valor_com_acrescimo": "164,27"
+  },
+  {
+    "produto": "Scarpin Verniz Nude Mary Jane Traseiro Fechado salto 5cm",
+    "codigo": "Cod:3523",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Scarpin Verniz Ferrari Boneca Com Fivela De Strass salto 5cm",
+    "codigo": "Cod:3712",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Verniz Palha Boneca Com Fivela De Strass salto 5cm",
+    "codigo": "Cod:3711",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Scarpin Vinil/ Verniz Maré salto 5cm",
+    "codigo": "Cod.2285",
+    "valor": "49,9",
+    "valor_com_acrescimo": "117,27"
+  },
+  {
+    "produto": "Scarpin Vinil/ Verniz Lemon salto 5cm",
+    "codigo": "Cod.2284",
+    "valor": "49,9",
+    "valor_com_acrescimo": "117,27"
+  },
+  {
+    "produto": "Tamanco Napa Preto Com Aplicações Ovais Salto Geométrico Vazado 9cm",
+    "codigo": "Cod.4142",
+    "valor": "129,9",
+    "valor_com_acrescimo": "305,27"
+  },
+  {
+    "produto": "Tamanco Tecido Onça Com Aplicações Ovais Salto Geométrico Vazado 9cm",
+    "codigo": "Cod.4140",
+    "valor": "129,9",
+    "valor_com_acrescimo": "305,27"
+  },
+  {
+    "produto": "Tamanco Napa Preto Com Strass Salto Geométrico Vazado 9cm",
+    "codigo": "Cod.4111",
+    "valor": "129,9",
+    "valor_com_acrescimo": "305,27"
+  },
+  {
+    "produto": "Tamanco Napa Preto Com Spikes Salto 9cm",
+    "codigo": "Cod.3995",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Tamanco Fechado Napa Preto Com Tiras Strass Salto 9cm",
+    "codigo": "Cod.3742",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Tamanco Napa Ônix Com Tiras Strass Bico Folha 9cm",
+    "codigo": "Cod.3777",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Tamanco Metalizado Turquesa 9cm",
+    "codigo": "Cod.2607",
+    "valor": "49,9",
+    "valor_com_acrescimo": "117,27"
+  },
+  {
+    "produto": "Tamanco Metalizado Rosa 9cm",
+    "codigo": "Cod.2581",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Tamanco Metalizado Ouro 9cm",
+    "codigo": "Cod.2582",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Tamanco Metalizado Prata 9cm",
+    "codigo": "Cod.2583",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Tamanco Metalizado Lilás 9cm",
+    "codigo": "Cod.2577",
+    "valor": "54,9",
+    "valor_com_acrescimo": "129,02"
+  },
+  {
+    "produto": "Tamanco Metalizado Esmeralda 9cm",
+    "codigo": "Cod.2578",
+    "valor": "54,9",
+    "valor_com_acrescimo": "129,02"
+  },
+  {
+    "produto": "Tamanco Metalizado Turquesa 9cm",
+    "codigo": "Cod.2579",
+    "valor": "54,9",
+    "valor_com_acrescimo": "129,02"
+  },
+  {
+    "produto": "Tamanco Matelassê Metalizado Rosê 9cm",
+    "codigo": "Cod.3335",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Tamanco Napa Aveia Com Pedrarias Salto Taça 9cm",
+    "codigo": "Cod.3695",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Tamanco Metalizado Pink Com Vinil 9cm",
+    "codigo": "Cod.3317",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Tamanco Metalizado Navy Com Vinil 9cm",
+    "codigo": "Cod.3318",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Tamanco Metalizado Ouro Light Com Vinil 9cm",
+    "codigo": "Cod.3320",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Tamanco Napa Íris/Strass 9cm",
+    "codigo": "Cod.2236",
+    "valor": "44,9",
+    "valor_com_acrescimo": "105,52"
+  },
+  {
+    "produto": "Tamanco Napa Maré/Strass 9cm",
+    "codigo": "Cod.2237",
+    "valor": "44,9",
+    "valor_com_acrescimo": "105,52"
+  },
+  {
+    "produto": "Tamanco Madri Rocha Com Fivelas salto 7cm",
+    "codigo": "Cod:4249",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Tamanco Madri Whisky Com Fivelas salto 7cm",
+    "codigo": "Cod:4250",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Tamanco Metalizado Bronze Com Flor salto 5cm",
+    "codigo": "Cod:4228",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Tamanco Napa Candy Com Tira Strass salto 5cm",
+    "codigo": "Cod:3614",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Tamanco Metalizado Prata Com Tira Strass salto 5cm",
+    "codigo": "Cod:3615",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Tamanco Napa Preto Com Tira Strass salto 5cm",
+    "codigo": "Cod:3616",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Tamanco Napa Off White Com Gáspea Strass salto 4cm",
+    "codigo": "Cod:3875",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Tamanco Napa Preto Com Gáspea Strass salto 4cm",
+    "codigo": "Cod:3876",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Tamanco Napa Off White salto 4cm",
+    "codigo": "Cod:3729",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Tamanco Napa Preto salto 4cm",
+    "codigo": "Cod:3731",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Tamanco Lizard Preto Com Fivela Lateral salto 4cm",
+    "codigo": "Cod:3681",
+    "valor": "89,9",
+    "valor_com_acrescimo": "211,26"
+  },
+  {
+    "produto": "Tamanco Napa Rosado salto 4cm",
+    "codigo": "Cod:3428",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Tamanco Napa Preto Com Meia Esferas salto 4cm",
+    "codigo": "Cod:3426",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Tamanco Metalizado Ouro Light Com Meia Esferas salto 4cm",
+    "codigo": "Cod:3427",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Tamanco Napa Bale salto 4cm",
+    "codigo": "Cod:3282",
+    "valor": "49,9",
+    "valor_com_acrescimo": "117,27"
+  },
+  {
+    "produto": "Tamanco Napa Pitaya/Pirâmides salto 4cm",
+    "codigo": "Cod:2822",
+    "valor": "44,9",
+    "valor_com_acrescimo": "105,52"
+  },
+  {
+    "produto": "Tamanco Napa Preto/Spike salto 4cm",
+    "codigo": "Cod:2361",
+    "valor": "59,9",
+    "valor_com_acrescimo": "140,77"
+  },
+  {
+    "produto": "Tamanco Croco Aloha salto 4cm",
+    "codigo": "Cod:2732",
+    "valor": "44,9",
+    "valor_com_acrescimo": "105,52"
+  },
+  {
+    "produto": "Tênis Napa Terra Com Tiras Off White",
+    "codigo": "Cod.4155",
+    "valor": "119,9",
+    "valor_com_acrescimo": "281,76"
+  },
+  {
+    "produto": "Tênis Napa Branco Com Lady",
+    "codigo": "Cod.4252",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Tênis Napa Branco Com Baby Blue",
+    "codigo": "Cod.4251",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Tênis Napa Branco Com Ônix",
+    "codigo": "Cod.4230",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Tênis Napa Branco Com Menta",
+    "codigo": "Cod.4229",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Tênis Napa Branco Com Pelo Onça",
+    "codigo": "Cod.4180",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Tênis Tecido Cow Print",
+    "codigo": "Cod.4160",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Tênis Napa Branco E Metalizado Marsala Com Suede",
+    "codigo": "Cod.4124",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Tênis Napa Caramelo E Off Com Suede",
+    "codigo": "Cod.4046",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Tênis Napa Marsala Com Suede",
+    "codigo": "Cod.3996",
+    "valor": "99,9",
+    "valor_com_acrescimo": "234,77"
+  },
+  {
+    "produto": "Tênis Napa Branco Com Metalizado Cobre E Suede",
+    "codigo": "Cod.3943",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Tênis Napa Branco Com Metalizado Preto E Suede",
+    "codigo": "Cod.3945",
+    "valor": "109,9",
+    "valor_com_acrescimo": "258,27"
+  },
+  {
+    "produto": "Tênis Verniz Lemon/Holográfico",
+    "codigo": "Cod.1618",
+    "valor": "49,9",
+    "valor_com_acrescimo": "117,27"
+  },
+  {
+    "produto": "Tênis Tricô Knit Damasco",
+    "codigo": "Cod.2769",
+    "valor": "139,9",
+    "valor_com_acrescimo": "328,77"
+  },
+  {
+    "produto": "Tênis Tricô Knit Zebra",
+    "codigo": "Cod.2771",
+    "valor": "139,9",
+    "valor_com_acrescimo": "328,77"
+  },
+  {
+    "produto": "Tênis Croco Metalizado Ouro",
+    "codigo": "Cod.2635",
+    "valor": "79,9",
+    "valor_com_acrescimo": "187,77"
+  },
+  {
+    "produto": "Tênis Napa/Trama Preto",
+    "codigo": "Cod.2610",
+    "valor": "74,9",
+    "valor_com_acrescimo": "175,92"
+  },
+  {
+    "produto": "Tênis Napa Off White/Metalizado Ouro",
+    "codigo": "Cod.2599",
+    "valor": "84,9",
+    "valor_com_acrescimo": "199,52"
+  },
+  {
+    "produto": "Tênis Suede Orquidea",
+    "codigo": "Cod.1487",
+    "valor": "39,9",
+    "valor_com_acrescimo": "93,77"
+  },
+  {
+    "produto": "Tênis Napa Branco/Onça",
+    "codigo": "Cod.1633",
+    "valor": "39,9",
+    "valor_com_acrescimo": "93,77"
+  },
+  {
+    "produto": "Tênis Pelo Onça/ Metalizado Pink",
+    "codigo": "Cod.1631",
+    "valor": "39,9",
+    "valor_com_acrescimo": "93,77"
+  },
+  {
+    "produto": "Tênis Napa Branco/Onça",
+    "codigo": "Cod.1627",
+    "valor": "39,9",
+    "valor_com_acrescimo": "93,77"
+  },
+  {
+    "produto": "Tênis Suede Azul/Metalizado Turquesa",
+    "codigo": "Cod.1249",
+    "valor": "39,9",
+    "valor_com_acrescimo": "93,77"
+  },
+  {
+    "produto": "Tênis Tecido Xadrez",
+    "codigo": "Cod.1245",
+    "valor": "39,9",
+    "valor_com_acrescimo": "93,77"
+  },
+  {
+    "produto": "Tênis Pelo Onça",
+    "codigo": "Cod.1017",
+    "valor": "39,9",
+    "valor_com_acrescimo": "93,77"
+  },
+  {
+    "produto": "Mocassim Atacama Preto Com Gravata",
+    "codigo": "Cod.3264",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Mocassim Atacama Palha Com Gravata",
+    "codigo": "Cod.3265",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Mocassim Atacama Rose Com Gravata",
+    "codigo": "Cod.3266",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Mocassim Napa Rosado Com Bridão",
+    "codigo": "Cod.3270",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Mocassim Napa Angelical Com Bridão",
+    "codigo": "Cod.3271",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Mocassim Napa Preto Com Bridão",
+    "codigo": "Cod.3246",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Mocassim Napa Palha Com Bridão",
+    "codigo": "Cod.3247",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Mocassim Napa Off White Com Bridão",
+    "codigo": "Cod.3248",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Mocassim Napa Rosado Com Corrente",
+    "codigo": "Cod.3235",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Mocassim Napa Rust Com Corrente",
+    "codigo": "Cod.3237",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Mocassim Napa Preto Nó Strass",
+    "codigo": "Cod.3230",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Mocassim Napa Off White Nó Strass",
+    "codigo": "Cod.3231",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Mocassim Napa Rosado Nó Strass",
+    "codigo": "Cod.3232",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Mocassim Napa Rosado Nó Strass Prata",
+    "codigo": "Cod.3272",
+    "valor": "94,9",
+    "valor_com_acrescimo": "223,02"
+  },
+  {
+    "produto": "Mocassim Napa Bale",
+    "codigo": "Cod.",
+    "valor": "49,9",
+    "valor_com_acrescimo": "117,27"
+  },
+  {
+    "produto": "Mocassim Napa Off White/Onça",
+    "codigo": "Cod.2686",
+    "valor": "49,9",
+    "valor_com_acrescimo": "117,27"
+  },
+  {
+    "produto": "Mocassim Napa Lemon/Off/Orange",
+    "codigo": "Cod.2688",
+    "valor": "49,9",
+    "valor_com_acrescimo": "117,27"
+  },
+  {
+    "produto": "Mocassim Napa Menta",
+    "codigo": "Cod.2671",
+    "valor": "49,9",
+    "valor_com_acrescimo": "117,27"
+  },
+  {
+    "produto": "Mocassim Napa Branco/Gravata",
+    "codigo": "Cod.2753",
+    "valor": "44,9",
+    "valor_com_acrescimo": "105,52"
+  },
+  {
+    "produto": "Mocassim Napa Preto Vazado Com Detalhe Ouro",
+    "codigo": "Cod.2924",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Mocassim Napa Rosado Vazado Com Detalhe Ouro",
+    "codigo": "Cod.2925",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Mocassim Napa Preto Com Tachas ônix",
+    "codigo": "Cod.2881",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Mocassim Napa Marsala Com Tachas Ouro",
+    "codigo": "Cod.2882",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Mocassim Napa Branco Com Tachas Ouro",
+    "codigo": "Cod.2883",
+    "valor": "44,9",
+    "valor_com_acrescimo": "105,52"
+  },
+  {
+    "produto": "Mocassim Napa Preto/Corrente",
+    "codigo": "Cod.2758",
+    "valor": "44,9",
+    "valor_com_acrescimo": "105,52"
+  },
+  {
+    "produto": "Mocassim Napa Off White/Corrente",
+    "codigo": "Cod.2759",
+    "valor": "44,9",
+    "valor_com_acrescimo": "105,52"
+  },
+  {
+    "produto": "Mocassim Napa Celestial/Corrente",
+    "codigo": "Cod.2760",
+    "valor": "44,9",
+    "valor_com_acrescimo": "105,52"
+  },
+  {
+    "produto": "Mocassim Napa Bordô",
+    "codigo": "Cod.2749",
+    "valor": "44,9",
+    "valor_com_acrescimo": "105,52"
+  },
+  {
+    "produto": "Mocassim Napa Rosa shock/Laço",
+    "codigo": "Cod.2725",
+    "valor": "44,9",
+    "valor_com_acrescimo": "105,52"
+  },
+  {
+    "produto": "Mocassim Suede Musgo",
+    "codigo": "Cod.2902",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Mocassim Suede Marsala",
+    "codigo": "Cod.2903",
+    "valor": "64,9",
+    "valor_com_acrescimo": "152,52"
+  },
+  {
+    "produto": "Mocassim Suede Preto",
+    "codigo": "Cod.2848",
+    "valor": "39,9",
+    "valor_com_acrescimo": "93,77"
+  },
+  {
+    "produto": "Mocassim Suede Marinho",
+    "codigo": "Cod.2847",
+    "valor": "39,9",
+    "valor_com_acrescimo": "93,77"
+  },
+  {
+    "produto": "Mocassim Suede Rosa Shock",
+    "codigo": "Cod.2849",
+    "valor": "39,9",
+    "valor_com_acrescimo": "93,77"
+  }
+]

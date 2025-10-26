@@ -1,0 +1,152 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f7f9fc;
+  line-height: 1.5;
+}
+
+header {
+  background-color: #1976d2;
+  color: white;
+  padding: 25px;
+  text-align: center;
+  font-size: 26px;
+  font-weight: bold;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.container {
+  padding: 20px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.busca-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 15px;
+}
+
+.busca-container input {
+  flex: 1 1 100%;
+  padding: 14px;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+}
+
+.busca-container button {
+  padding: 14px 25px;
+  background-color: #e86f2d;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.2s, transform 0.2s;
+}
+
+.busca-container button:hover {
+  background-color: #115293;
+  transform: scale(1.05);
+}
+
+.contador {
+  margin-bottom: 10px;
+  font-weight: bold;
+  color: #555;
+  font-size: 16px;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 15px;
+}
+
+.card {
+  background-color: white;
+  padding: 18px;
+  border-radius: 12px;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.08);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 24px rgba(0,0,0,0.15);
+}
+
+.produto-nome {
+  font-weight: bold;
+  font-size: 17px;
+  margin-bottom: 8px;
+  color: #333;
+}
+
+.codigo {
+  color: #666;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.valor {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.no-result {
+  text-align: center;
+  color: #888;
+  margin-top: 20px;
+}
+
+/* Cores por faixa de preço */
+.valor-baixo { color: #388e3c; }    /* verde */
+.valor-medio { color: #f57c00; }   /* laranja */
+.valor-alto { color: #d32f2f; }    /* vermelho */
+
+/* Responsivo para celular */
+@media (max-width: 600px) {
+  .busca-container input, .busca-container button {
+    flex: 1 1 100%;
+    font-size: 15px;
+  }
+
+  .cards {
+    grid-template-columns: 1fr;
+  }
+
+  header {
+    font-size: 22px;
+    padding: 20px;
+  }
+
+  .card {
+    padding: 15px;
+  }
+}
+.produto-nome i {
+  margin-right: 8px;
+  color: #e86f2d;
+}
+header {
+  /* background-color: #1976d2; */
+  background-color: #e86f2d;
+  color: white;
+  padding: 25px;
+  text-align: center;
+  font-size: 26px;
+  font-weight: bold;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header .logo {
+  max-height: 80px; /* ajusta a altura */
+  width: auto;
+}
